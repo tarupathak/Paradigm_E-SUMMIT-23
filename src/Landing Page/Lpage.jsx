@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header'
 import './Lpage.css'
-import logo from '../Pages/logo.svg'
+import logo from '../Images/logo.svg'
 
 const Lpage = () => {
   return (
