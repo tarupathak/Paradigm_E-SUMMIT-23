@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat&display=swap");
+
+#header {
+  position: absolute;
+  width: 100vw;
+  height: 13.19vh;
+  left: 0px;
+  top: 0px;
+
+  background: #6c9ee8;
+}
+
+#head {
+  position: absolute;
+  width: 10.83vw;
+  height: 5.97vh;
+  left: 1.94vw;
+  top: -3.4vh;
+
+  font-family: "Kaushan Script";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 7vh;
+  line-height: 10.1vh;
+  display: flex;
+  align-items: center;
+
+  color: #ffffff;
+}
