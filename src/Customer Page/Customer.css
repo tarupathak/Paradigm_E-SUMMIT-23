@@ -1,0 +1,87 @@
+#img {
+    position: absolute;
+    width: 45.5vw;
+    height: 68.75vh;
+    left: 1.94vw;
+    top: 28.61vh;
+  }
+  
+  #card {
+    position: absolute;
+    width: 37.7vw;
+    height: 66.25vh;
+    left: 59vw;
+    top: 27.5vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: linear-gradient(214.47deg, #ffffff -76.4%, #ffffff 212.38%);
+    border: 2px solid #6c9ee8;
+    box-shadow: 8px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+  }
+  
+  label {
+    position: absolute;
+    width: 313px;
+    height: 40px;
+    left: 60px;
+    top: 30px;
+  
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+  
+    display: flex;
+    align-items: center;
+  
+    color: #6c9ee8;
+  }
+  
+  input {
+    box-sizing: border-box;
+    padding: 20px;
+    position: absolute;
+    width: 423px;
+    height: 65px;
+    left: 60px;
+    top: 74px;
+    border: 1px solid #6c9ee8;
+    border-radius: 15px;
+  }
+  p {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    color: #6c9ee8;
+    margin-top: 0vh;
+    display: flex;
+    flex-direction: column;
+  
+    height: 37px;
+  }
+  
+  #date {
+    margin-left: 4.1vw;
+    margin-top: 21.5vh;
+  }
+  
+  #time {
+    margin-left: 4.1vw;
+  }
+  
+  #bus {
+    margin-left: 4.1vw;
+  }
+  
+  #obj {
+    margin-left: 4.1vw;
+  }
+  
+  #quan {
+    margin-left: 4.1vw;
+  }
+  

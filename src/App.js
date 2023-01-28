@@ -1,6 +1,7 @@
 import React from 'react'
 import { BrowserRouter,Routes, Route } from "react-router-dom";
 import Lpage from '../src/Landing Page/Lpage'
+import Customer from '../src/Customer Page/Customer'
 
 const App = () => {
   return (
